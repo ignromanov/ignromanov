@@ -72,4 +72,5 @@ Full-Stack Developer & Project Manager with 15+ years of experience, proficient 
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/ignromanov"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/ignromanov" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
