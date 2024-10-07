@@ -1,16 +1,15 @@
 Hi 👋 My name is Ignat
 ======================
 
-Lead Full-Stack Developer & Product Manager
+Lead Full-Stack Developer & Technical Product Manager
 --------------------------------------
 
-Lead Full-Stack Developer & Product Manager with 15+ years of experience, proficient in JavaScript, TypeScript, Node.js, React.js, SQL, and blockchain technologies. Managed teams and led innovative projects, such as cryptocurrency wallet, DeFi initiatives, and web-based content management applications. Committed to continuous learning and passionate about collaborating on blockchain-focused projects with growth-oriented teams.
+Lead Full-Stack Developer & Technical Product Manager with 15+ years of experience, proficient in JavaScript, TypeScript, Node.js, React.js, SQL, and blockchain technologies. Managed teams and led innovative projects, such as cryptocurrency wallet, DeFi initiatives, and web-based content management applications. Committed to continuous learning and passionate about collaborating on blockchain-focused projects with growth-oriented teams.
 
 * 🌍  I'm based in Earth
 * ✉️  You can contact me at [ign.romanov@gmail.com](mailto:ign.romanov@gmail.com)
-* 🚀  I'm currently working on [CryptoCash](http://github.com/ignromanov/crypto-cash-webapp)
-* 🧠  I'm learning Blockchain Development & Machine Learning
-* 🤝  I'm open to collaborating on interesting projects
+* 🚀  I'm currently working on [Curve Finance](https://github.com/curvefi/)
+* 🧠  I'm learning Blockchain Development & Phylosophy
 * ⚡  I seek to cultivate inner tranquility, wisdom, and virtue by embracing rationality, self-control, and understanding the natural order of the universe, as taught by Stoic philosophy.
 
 ### Skills
