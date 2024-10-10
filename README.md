@@ -1,21 +1,19 @@
-Hi 👋 My name is Ignat
-======================
+# Hi 👋 My name is Ignat
 
-Lead Full-Stack Developer & Technical Product Manager
---------------------------------------
+## Lead Full-Stack Developer & Technical Product Manager
 
 Lead Full-Stack Developer & Technical Product Manager with 15+ years of experience, proficient in JavaScript, TypeScript, Node.js, React.js, SQL, and blockchain technologies. Managed teams and led innovative projects, such as cryptocurrency wallet, DeFi initiatives, and web-based content management applications. Committed to continuous learning and passionate about collaborating on blockchain-focused projects with growth-oriented teams.
 
-* 🌍  I'm based in Earth
-* ✉️  You can contact me at [ign.romanov@gmail.com](mailto:ign.romanov@gmail.com)
-* 🚀  I'm currently working on [Curve Finance](https://github.com/curvefi/)
-* 🧠  I'm learning Blockchain Development & Phylosophy
-* ⚡  I seek to cultivate inner tranquility, wisdom, and virtue by embracing rationality, self-control, and understanding the natural order of the universe, as taught by Stoic philosophy.
+- 🌍  I'm based in Earth
+- ✉️  You can contact me at [ign.romanov@gmail.com](mailto:ign.romanov@gmail.com)
+- 🚀  I'm currently working on [Curve Finance](https://github.com/curvefi/)
+- 🧠  I'm learning Blockchain Development & Phylosophy
+- ⚡  I seek to cultivate inner tranquility, wisdom, and virtue by embracing rationality, self-control, and understanding the natural order of the universe, as taught by Stoic philosophy.
 
 ### Skills
 
-
 <p align="left">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ignromanov&show_icons=true&locale=en&layout=compact" alt="ignromanov" />
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
@@ -58,7 +56,7 @@ Lead Full-Stack Developer & Technical Product Manager with 15+ years of experien
 <a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" alt="Web3Js" /></a>
 <a href="https://chain.link/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chainlink-colored.svg" width="36" height="36" alt="Chainlink" /></a>
 </p>
-
+<br />
 
 ### Socials
 
@@ -66,11 +64,27 @@ Lead Full-Stack Developer & Technical Product Manager with 15+ years of experien
 
 ### Badges
 
-<b>Top Repositories</b>
+<p align="left">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ignromanov&" alt="ignromanov" />
+</p>
 
-<div width="100%" align="center"><a href="https://github.com/ignromanov/crypto-cash-webapp" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ignromanov&repo=crypto-cash-webapp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/ignromanov/crypto-cash-contracts" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ignromanov&repo=crypto-cash-contracts&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+### Top Repositories
+
+<div width="100%" align="center">
+  <a href="https://github.com/ignromanov/crypto-cash-webapp" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ignromanov&repo=crypto-cash-webapp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/ignromanov/crypto-cash-contracts" align="right">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ignromanov&repo=crypto-cash-contracts&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+</div>
+
+<br /><br /><br /><br /><br /><br /><br />
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/ignromanov" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
+<p align="left">
+  <a href="https://www.buymeacoffee.com/ignromanov" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
+  </a>
+</p>
