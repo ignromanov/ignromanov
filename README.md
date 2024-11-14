@@ -6,7 +6,7 @@ Lead Full-Stack Developer & Technical Product Manager with 15+ years of experien
 
 - 🌍  I'm based in Earth
 - ✉️  You can contact me at [ign.romanov@gmail.com](mailto:ign.romanov@gmail.com)
-- 🚀  I'm currently working on [Curve Finance](https://github.com/curvefi/)
+- 🚀  I'm currently working on [BigDecimal](https://github.com/ignromanov/big-decimal)
 - 🧠  I'm learning Blockchain Development & Phylosophy
 - ⚡  I seek to cultivate inner tranquility, wisdom, and virtue by embracing rationality, self-control, and understanding the natural order of the universe, as taught by Stoic philosophy.
 
@@ -65,7 +65,7 @@ Lead Full-Stack Developer & Technical Product Manager with 15+ years of experien
 ### Badges
 
 <p align="left">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ignromanov&" alt="ignromanov" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ignromanov" alt="ignromanov" />
 </p>
 
 ### Top Repositories
