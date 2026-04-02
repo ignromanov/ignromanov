@@ -4,8 +4,8 @@
 
 Currently building [VoidPay](https://voidpay.xyz) | Previously DApp Architect at [Curve.fi](https://curve.fi)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignromanov)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/IgnRomanov)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignat-romanov/)
+[![X](https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white)](https://x.com/romignov)
 [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ignromanov)
 
 ---
@@ -84,6 +84,6 @@ Building at the intersection of **Web3 UX** and **privacy engineering** — maki
 
 Open to conversations about Web3 product design, privacy-first architecture, or DeFi UX.
 
-- [LinkedIn](https://www.linkedin.com/in/ignromanov)
-- [Twitter/X](https://twitter.com/IgnRomanov)
+- [LinkedIn](https://www.linkedin.com/in/ignat-romanov/)
+- [X](https://x.com/romignov)
 - [Email](mailto:ign.romanov@gmail.com)
